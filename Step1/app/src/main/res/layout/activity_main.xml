@@ -13,9 +13,10 @@
         android:text="Hello World!" />
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@mipmap/ic_launcher" />
+        android:layout_width="410dp"
+        android:layout_height="510dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/panya" />
 
 
 </LinearLayout>
